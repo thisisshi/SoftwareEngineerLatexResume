@@ -1,5 +1,3 @@
-# SoftwareEngineerLatexResume
-A Resume in LaTeX!
 # Software Engineer Latex Resume
 A Resume in LaTeX!
 
