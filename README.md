@@ -43,4 +43,4 @@ Skills are a bit different:
 \end{cvskills}
 ```
 
-That's basically all you need to knwo to get started. More documentation can be found at [Awesome-CV](https://github.com/posquit0/Awesome-CV)'s repo
+That's basically all you need to know to get started. More documentation can be found at [Awesome-CV](https://github.com/posquit0/Awesome-CV)'s repo
